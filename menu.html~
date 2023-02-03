@@ -56,8 +56,8 @@
                 <div class="d-inline-flex align-items-center justify-content-center">
                     <i class="bi bi-phone-vibrate fs-1 text-primary me-3"></i>
                     <div class="text-start">
-                        <h6 class="text-uppercase mb-1">Whatsapp</h6>
-                        <span>+57 315377****</span>
+                        <h6 class="text-uppercase mb-1"><a href="https://wa.link/mu2km1">Whatsapp</a></h6>
+                        <span><a href="https://wa.link/mu2km1">+57 315377****</a></span>
                     </div>
                 </div>
             </div>
@@ -79,7 +79,7 @@
                 <a href="index.html" class="nav-item nav-link ">Inicio</a>
                 <a href="about.html" class="nav-item nav-link ">Sobre nosotros</a>
                 <a href="menu.html" class="nav-item nav-link active">Menú & Precio</a>
-                <a href="favorite.html" class="nav-item nav-link">Favoritos</a>
+                 <a href="favorite.html" class="nav-item nav-link">Favoritos</a>
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Clientes</a>
                     <div class="dropdown-menu m-0">
@@ -137,7 +137,7 @@
                                         <h4 class="bg-dark text-primary p-2 m-0">COP $12K</h4>
                                     </div>
                                     <div class="d-flex flex-column justify-content-center text-start bg-secondary border-inner px-4">
-                                        <h5 class="text-uppercase">Hamburguesa Clásica</h5>
+                                        <h5 class="text-uppercase"><a href="https://wa.link/y5cvqk">Hamburguesa Clásica</a></h5>
                                         <span>Pan artesanal Brioche, carne premium, jamón, queso mozzarella, cebolla caramelizada y vegetales.</span>
                                     </div>
                                 </div>
@@ -149,7 +149,7 @@
                                         <h4 class="bg-dark text-primary p-2 m-0">COP $15K</h4>
                                     </div>
                                     <div class="d-flex flex-column justify-content-center text-start bg-secondary border-inner px-4">
-                                        <h5 class="text-uppercase">Mexicana</h5>
+                                        <h5 class="text-uppercase"><a href="https://wa.link/y5cvqk">Hamburguesa Mexicana</a></h5>
                                         <span>Pan artesanal Brioche , carne premium, jalapeños, guacamole,  queso mozzarella, tocineta,  + salsa Chiplote + vegetales. </span>
                                     </div>
                                 </div>
@@ -161,7 +161,7 @@
                                         <h4 class="bg-dark text-primary p-2 m-0">COP $17K</h4>
                                     </div>
                                     <div class="d-flex flex-column justify-content-center text-start bg-secondary border-inner px-4">
-                                        <h5 class="text-uppercase">Crispy</h5>
+                                        <h5 class="text-uppercase"><a href="https://wa.link/y5cvqk">Hamburguesa Crispy</a></h5>
                                         <span>Pan artesanal Brioche , Pechuga apanada, + Carne premium + Queso mozzarella, + Tocineta + Cebolla + Vegetales.</span>
                                     </div>
                                 </div>
@@ -173,7 +173,7 @@
                                         <h4 class="bg-dark text-primary p-2 m-0">COP $20K</h4>
                                     </div>
                                     <div class="d-flex flex-column justify-content-center text-start bg-secondary border-inner px-4">
-                                        <h5 class="text-uppercase">Súper SASPIC</h5>
+                                        <h5 class="text-uppercase"><a href="https://wa.link/y5cvqk">Hamburguesa Súper SASPIC</a></h5>
                                         <span>Doble carne especial + Carne premium + Queso Mozzarella + Cebolla Caramelizada + Vegetales.</span>
                                     </div>
                                 </div>
@@ -191,7 +191,7 @@
                                         <h4 class="bg-dark text-primary p-2 m-0">COP $10K</h4>
                                     </div>
                                     <div class="d-flex flex-column justify-content-center text-start bg-secondary border-inner px-4">
-                                        <h5 class="text-uppercase">Tradicional</h5>
+                                        <h5 class="text-uppercase"><a href="https://wa.link/ckfbmw">Perro Caliente Tradicional</a></h5>
                                         <span>Descripción Perro Caliente tradicional.</span>
                                     </div>
                                 </div>
@@ -203,7 +203,7 @@
                                         <h4 class="bg-dark text-primary p-2 m-0">COP $14K</h4>
                                     </div>
                                     <div class="d-flex flex-column justify-content-center text-start bg-secondary border-inner px-4">
-                                        <h5 class="text-uppercase">Hawaiano</h5>
+                                        <h5 class="text-uppercase"><a href="https://wa.link/ckfbmw">Perro Caliente Hawaiano.</a></h5>
                                         <span>Descripción perro caliente Hawaiano.</span>
                                     </div>
                                 </div>
@@ -215,7 +215,7 @@
                                         <h4 class="bg-dark text-primary p-2 m-0">COP $16K</h4>
                                     </div>
                                     <div class="d-flex flex-column justify-content-center text-start bg-secondary border-inner px-4">
-                                        <h5 class="text-uppercase">SASPIC DOG</h5>
+                                       <h5 class="text-uppercase"><a href="https://wa.link/ckfbmw">SASPI DOG</a></h5>
                                         <span>Descripción perro caliente SASPIC DOG.</span>
                                     </div>
                                 </div>
@@ -227,7 +227,7 @@
                                         <h4 class="bg-dark text-primary p-2 m-0">COP $22K</h4>
                                     </div>
                                     <div class="d-flex flex-column justify-content-center text-start bg-secondary border-inner px-4">
-                                        <h5 class="text-uppercase">Champion</h5>
+                                        <h5 class="text-uppercase"><a href="https://wa.link/ckfbmw">HOT DOG CHAMPION</a></h5>
                                         <span>Descripción perro caliente Champion.</span>
                                     </div>
                                 </div>
@@ -244,7 +244,7 @@
                                         <h4 class="bg-dark text-primary p-2 m-0">COP $10K</h4>
                                     </div>
                                     <div class="d-flex flex-column justify-content-center text-start bg-secondary border-inner px-4">
-                                        <h5 class="text-uppercase">Alitas Junior</h5>
+                                        <h5 class="text-uppercase"><a href="https://wa.link/dapnf8">ALITAS JUNIOR</a></h5>
                                         <span>4 alas con salsa BBQ , miel mostaza, salsa BBQ, picante + papas fritas.</span>
                                     </div>
                                 </div>
@@ -257,7 +257,7 @@
                                         <h4 class="bg-dark text-primary p-2 m-0">COP $18K</h4>
                                     </div>
                                     <div class="d-flex flex-column justify-content-center text-start bg-secondary border-inner px-4">
-                                        <h5 class="text-uppercase">Alitas Personales</h5>
+                                        <h5 class="text-uppercase"><a href="https://wa.link/dapnf8">ALITAS PERSONAL</a></h5>
                                         <span>8 alas con salsa BBQ , miel mostaza, salsa BBQ, picante + papas fritas.</span>
                                     </div>
                                 </div>
@@ -270,7 +270,7 @@
                                         <h4 class="bg-dark text-primary p-2 m-0">COP $32K</h4>
                                     </div>
                                     <div class="d-flex flex-column justify-content-center text-start bg-secondary border-inner px-4">
-                                        <h5 class="text-uppercase">Alitas Medianas</h5>
+                                        <h5 class="text-uppercase"><a href="https://wa.link/dapnf8">ALITAS MEDIANAS</a></h5>
                                         <span>16 alas con salsa BBQ , miel mostaza, salsa BBQ, picante + papas fritas.</span>
                                     </div>
                                 </div>
@@ -283,7 +283,7 @@
                                         <h4 class="bg-dark text-primary p-2 m-0">COP $43K</h4>
                                     </div>
                                     <div class="d-flex flex-column justify-content-center text-start bg-secondary border-inner px-4">
-                                        <h5 class="text-uppercase">Familiares</h5>
+                                        <h5 class="text-uppercase"><a href="https://wa.link/dapnf8">ALITAS FAMILIARES</a></h5>
                                         <span>26 alas con salsa BBQ , miel mostaza, salsa BBQ, picante + papas fritas.</span>
                                     </div>
                                 </div>
@@ -355,12 +355,12 @@
                         <div class="col-lg-4 col-md-12 pt-0 pt-lg-5 mb-5">
                             <h4 class="text-primary text-uppercase mb-4">Enlaces</h4>
                             <div class="d-flex flex-column justify-content-start">
-                                <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Inicio</a>
-                                <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Sobre nosotros</a>
-                                <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Nuestros productos</a>
-                                <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Productos favoritos</a>
-                                <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Testimonios</a>
-                                <a class="text-secondary" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Contacto</a>
+                                <a class="text-secondary mb-2" href="inicio.html"><i class="bi bi-arrow-right text-primary me-2"></i>Inicio</a>
+                                <a class="text-secondary mb-2" href="about.html"><i class="bi bi-arrow-right text-primary me-2"></i>Sobre nosotros</a>
+                                <a class="text-secondary mb-2" href="menu.html"><i class="bi bi-arrow-right text-primary me-2"></i>Nuestros productos</a>
+                                <a class="text-secondary mb-2" href="favorite.html"><i class="bi bi-arrow-right text-primary me-2"></i>Productos favoritos</a>
+                                <a class="text-secondary mb-2" href="testimonial.html"><i class="bi bi-arrow-right text-primary me-2"></i>Testimonios</a>
+                                <a class="text-secondary" href="Contacto"><i class="bi bi-arrow-right text-primary me-2"></i>Contacto</a>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-12 pt-0 pt-lg-5 mb-5">

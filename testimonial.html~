@@ -64,7 +64,7 @@
     </div>
     <!-- Topbar End -->
 
-     <!-- Navbar Start -->
+    <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-dark navbar-dark shadow-sm py-3 py-lg-0 px-3 px-lg-0">
         <a href="index.html" class="navbar-brand d-block d-lg-none">
             <h1 class="m-0 text-uppercase text-white"><i class="ffa fa-solid fa-burger  fs-1 text-primary me-3"></i>SASPIC</h1>
@@ -75,11 +75,11 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto mx-lg-auto py-0">
                 <a href="index.html" class="nav-item nav-link">Inicio</a>
-                <a href="about.html" class="nav-item nav-link active">Sobre nosotros</a>
+                <a href="about.html" class="nav-item nav-link">Sobre nosotros</a>
                 <a href="menu.html" class="nav-item nav-link">Menú & Precio</a>
-                <a href="favorite.html" class="nav-item nav-link">Favoritos</a>
+                 <a href="favorite.html" class="nav-item nav-link">Favoritos</a>
                 <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Clientes</a>
+                    <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown">Clientes</a>
                     <div class="dropdown-menu m-0">
                         <a href="service.html" class="dropdown-item">Nuestros servicios</a>
                         <a href="testimonial.html" class="dropdown-item">Testimonios</a>
@@ -96,107 +96,72 @@
     <div class="container-fluid bg-dark bg-img p-5 mb-5">
         <div class="row">
             <div class="col-12 text-center">
-                <h1 class="display-4 text-uppercase text-white">Sobre nosotros</h1>
+                <h1 class="display-4 text-uppercase text-white">Testimonios</h1>
                 <a href="index.html">Inicio</a>
                 <i class="far fa-square text-primary px-2"></i>
-                <a href="">Sobre nosotros</a>
+                <a href="">Testimonios</a>
             </div>
         </div>
     </div>
     <!-- Page Header End -->
 
 
-    <!-- About Start -->
-    <div class="container-fluid pt-5">
+    <!-- Testimonial Start -->
+    <div class="container-fluid py-5">
         <div class="container">
             <div class="section-title position-relative text-center mx-auto mb-5 pb-3" style="max-width: 600px;">
-                <h2 class="text-primary font-secondary">Algo de historia</h2>
-                <h1 class="display-4 text-uppercase">Bienvenidos a SASPIC</h1>
+                <h2 class="text-primary font-secondary">Clientes felices</h2>
+                <h1 class="display-4 text-uppercase">Nuestros clientes opinan</h1>
             </div>
-            <div class="row gx-5">
-                <div class="col-lg-5 mb-5 mb-lg-0" style="min-height: 400px;">
-                    <div class="position-relative h-100">
-                        <img class="position-absolute w-100 h-100" src="img/about.jpg" style="object-fit: cover;">
+            <div class="owl-carousel testimonial-carousel">
+                <div class="testimonial-item bg-dark text-white border-inner p-4">
+                    <div class="d-flex align-items-center mb-3">
+                        <img class="img-fluid flex-shrink-0" src="img/testimonial-1.jpg" style="width: 60px; height: 60px;">
+                        <div class="ps-3">
+                            <h4 class="text-primary text-uppercase mb-1">Laura Mejía</h4>
+                            <span>¡Compré una Hamburguesa!</span>
+                        </div>
                     </div>
+                    <p class="mb-0">Estoy muy sastifecha, la atención al cliente es excelente y el sabor único.
+                    </p>
                 </div>
-                <div class="col-lg-6 pb-5">
-                    <h4 class="mb-4">Una hamburguesa es un sándwich hecho a base de carne molida o de origen vegetal.</h4>
-                    <p class="mb-5">Aglutinada en forma de filete cocinado a la parrilla o a la plancha, aunque también puede freírse u hornearse.</p>
-                    <div class="row g-5">
-                        <div class="col-sm-6">
-                            <div class="d-flex align-items-center justify-content-center bg-primary border-inner mb-4" style="width: 90px; height: 90px;">
-                                <i class="fa fa-heartbeat fa-2x text-white"></i>
-                            </div>
-                            <h4 class="text-uppercase">100% Saludable</h4>
-                            <p class="mb-0">Gracias a su contenido en proteínas, las hamburguesas ayudan a desarrollar el músculo y a mantener la energía a lo largo de intensas jornadas de entrenamiento o trabajo físico. </p>
-                        </div>
-                        <div class="col-sm-6">
-                            <div class="d-flex align-items-center justify-content-center bg-primary border-inner mb-4" style="width: 90px; height: 90px;">
-                                <i class="fa fa-award fa-2x text-white"></i>
-                            </div>
-                            <h4 class="text-uppercase">Premio de Calidad</h4>
-                            <p class="mb-0">SASPIC tiene el premio de la medalla de oro en comidas rápidas. Excelente atención y soporte al cliente hacen de esta maravillosa empresa un lugar espcial y único.</p>
+                <div class="testimonial-item bg-dark text-white border-inner p-4">
+                    <div class="d-flex align-items-center mb-3">
+                        <img class="img-fluid flex-shrink-0" src="img/testimonial-2.jpg" style="width: 60px; height: 60px;">
+                        <div class="ps-3">
+                            <h4 class="text-primary text-uppercase mb-1">Manuel Lozano</h4>
+                            <span>¡Compré un perro caliente!</span>
                         </div>
                     </div>
+                    <p class="mb-0">Me encantó su sabor, color y aroma que enamora.
+                    </p>
                 </div>
-            </div>
-        </div>
-    </div>
-    <!-- About End -->
-
-
-    <!-- Facts Start -->
-    <div class="container-fluid bg-img py-5 mb-5">
-        <div class="container py-5">
-            <div class="row gx-5 gy-4">
-                <div class="col-lg-3 col-md-6">
-                    <div class="d-flex">
-                        <div class="bg-primary border-inner d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
-                            <i class="fa fa-star text-white"></i>
-                        </div>
-                        <div class="ps-4">
-                            <h6 class="text-primary text-uppercase">Nº de Sedes</h6>
-                            <h1 class="display-5 text-white mb-0" data-toggle="counter-up">10</h1>
+                <div class="testimonial-item bg-dark text-white border-inner p-4">
+                    <div class="d-flex align-items-center mb-3">
+                        <img class="img-fluid flex-shrink-0" src="img/testimonial-3.jpg" style="width: 60px; height: 60px;">
+                        <div class="ps-3">
+                            <h4 class="text-primary text-uppercase mb-1">Andres Martínez</h4>
+                            <span>El domicilio es muy veloz</span>
                         </div>
                     </div>
+                    <p class="mb-0">Después de 15 minutos el mensajero estaba tocando mi puerta y disfruté un delicioso Sandwich de pollo.
+                    </p>
                 </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="d-flex">
-                        <div class="bg-primary border-inner d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
-                            <i class="fa fa-users text-white"></i>
-                        </div>
-                        <div class="ps-4">
-                            <h6 class="text-primary text-uppercase">Hamburguesas vendidas</h6>
-                            <h1 class="display-5 text-white mb-0" data-toggle="counter-up">5.000</h1>
+                <div class="testimonial-item bg-dark text-white border-inner p-4">
+                    <div class="d-flex align-items-center mb-3">
+                        <img class="img-fluid flex-shrink-0" src="img/testimonial-4.jpeg" style="width: 60px; height: 60px;">
+                        <div class="ps-3">
+                            <h4 class="text-primary text-uppercase mb-1">Luna Sofía</h4>
+                            <span>¡Visité SASPIC con mi novio!</span>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="d-flex">
-                        <div class="bg-primary border-inner d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
-                            <i class="fa fa-check text-white"></i>
-                        </div>
-                        <div class="ps-4">
-                            <h6 class="text-primary text-uppercase">Empleados</h6>
-                            <h1 class="display-5 text-white mb-0" data-toggle="counter-up">100</h1>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="d-flex">
-                        <div class="bg-primary border-inner d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
-                            <i class="fa fa-mug-hot text-white"></i>
-                        </div>
-                        <div class="ps-4">
-                            <h6 class="text-primary text-uppercase">Clientes felices</h6>
-                            <h1 class="display-5 text-white mb-0" data-toggle="counter-up">10.000</h1>
-                        </div>
-                    </div>
+                    <p class="mb-0">Me encanta el lugar, tiene una decoración muy hermosa y las luces crean un escenario para disfrutar en pareja.
+                    </p>
                 </div>
             </div>
         </div>
     </div>
-    <!-- Facts End -->
+    <!-- Testimonial End -->
 
 
     <!-- Footer Start -->
@@ -241,7 +206,7 @@
                                 <a class="text-secondary mb-2" href="menu.html"><i class="bi bi-arrow-right text-primary me-2"></i>Nuestros productos</a>
                                 <a class="text-secondary mb-2" href="favorite.html"><i class="bi bi-arrow-right text-primary me-2"></i>Productos favoritos</a>
                                 <a class="text-secondary mb-2" href="testimonial.html"><i class="bi bi-arrow-right text-primary me-2"></i>Testimonios</a>
-                                <a class="text-secondary" href="contact.html"><i class="bi bi-arrow-right text-primary me-2"></i>Contacto</a>
+                                <a class="text-secondary" href="Contacto"><i class="bi bi-arrow-right text-primary me-2"></i>Contacto</a>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-12 pt-0 pt-lg-5 mb-5">
@@ -265,7 +230,6 @@
         </div>
     </div>
     <!-- Footer End -->
-
 
     <!-- Back to Top -->
     <a href="#" class="btn btn-primary border-inner py-3 fs-4 back-to-top"><i class="bi bi-arrow-up"></i></a>

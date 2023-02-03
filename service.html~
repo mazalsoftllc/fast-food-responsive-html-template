@@ -31,7 +31,7 @@
 </head>
 
 <body>
-     <!-- Topbar Start -->
+    <!-- Topbar Start -->
     <div class="container-fluid px-0 d-none d-lg-block">
         <div class="row gx-0">
             <div class="col-lg-4 text-center bg-secondary py-3">
@@ -55,8 +55,8 @@
                 <div class="d-inline-flex align-items-center justify-content-center">
                     <i class="bi bi-phone-vibrate fs-1 text-primary me-3"></i>
                     <div class="text-start">
-                        <h6 class="text-uppercase mb-1">Whatsapp</h6>
-                        <span>+57 315377****</span>
+                        <h6 class="text-uppercase mb-1"><a href="https://wa.link/mu2km1">Whatsapp</a></h6>
+                        <span><a href="https://wa.link/mu2km1">+57 315377****</a></span>
                     </div>
                 </div>
             </div>
@@ -75,12 +75,12 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto mx-lg-auto py-0">
-                <a href="index.html" class="nav-item nav-link active">Inicio</a>
+                <a href="index.html" class="nav-item nav-link">Inicio</a>
                 <a href="about.html" class="nav-item nav-link">Sobre nosotros</a>
                 <a href="menu.html" class="nav-item nav-link">Menú & Precio</a>
                  <a href="favorite.html" class="nav-item nav-link">Favoritos</a>
                 <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Clientes</a>
+                    <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown">Clientes</a>
                     <div class="dropdown-menu m-0">
                         <a href="service.html" class="dropdown-item">Nuestros servicios</a>
                         <a href="testimonial.html" class="dropdown-item">Testimonios</a>
@@ -98,9 +98,9 @@
         <div class="row">
             <div class="col-12 text-center">
                 <h1 class="display-4 text-uppercase text-white">Servicios</h1>
-                <a href="">Home</a>
+                <a href="index.html">Inicio</a>
                 <i class="far fa-square text-primary px-2"></i>
-                <a href="">Services</a>
+                <a href="">Servicios</a>
             </div>
         </div>
     </div>
@@ -178,12 +178,12 @@
                         <div class="col-lg-4 col-md-12 pt-0 pt-lg-5 mb-5">
                             <h4 class="text-primary text-uppercase mb-4">Enlaces</h4>
                             <div class="d-flex flex-column justify-content-start">
-                                <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Inicio</a>
-                                <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Sobre nosotros</a>
-                                <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Nuestros productos</a>
-                                <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Productos favoritos</a>
-                                <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Testimonios</a>
-                                <a class="text-secondary" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Contacto</a>
+                                <a class="text-secondary mb-2" href="inicio.html"><i class="bi bi-arrow-right text-primary me-2"></i>Inicio</a>
+                                <a class="text-secondary mb-2" href="about.html"><i class="bi bi-arrow-right text-primary me-2"></i>Sobre nosotros</a>
+                                <a class="text-secondary mb-2" href="menu.html"><i class="bi bi-arrow-right text-primary me-2"></i>Nuestros productos</a>
+                                <a class="text-secondary mb-2" href="favorite.html"><i class="bi bi-arrow-right text-primary me-2"></i>Productos favoritos</a>
+                                <a class="text-secondary mb-2" href="testimonial.html"><i class="bi bi-arrow-right text-primary me-2"></i>Testimonios</a>
+                                <a class="text-secondary" href="Contacto"><i class="bi bi-arrow-right text-primary me-2"></i>Contacto</a>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-12 pt-0 pt-lg-5 mb-5">
