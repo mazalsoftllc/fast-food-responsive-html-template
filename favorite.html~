@@ -38,15 +38,16 @@
                 <div class="d-inline-flex align-items-center justify-content-center">
                     <i class="bi bi-envelope fs-1 text-primary me-3"></i>
                     <div class="text-start">
-                        <h6 class="text-uppercase mb-1">Email Us</h6>
-                        <span>info@example.com</span>
+                        <h6 class="text-uppercase mb-1">Atención al cliente</h6>
+                        <span>clientes@saspic.com</span>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 text-center bg-primary border-inner py-3">
                 <div class="d-inline-flex align-items-center justify-content-center">
                     <a href="index.html" class="navbar-brand">
-                        <h1 class="m-0 text-uppercase text-white"><i class="fa fa-birthday-cake fs-1 text-dark me-3"></i>CakeZone</h1>
+                       
+                        <h1 class="m-0 text-uppercase text-white"><i class="fa fa-solid fa-burger fs-1 text-dark me-3"></i>SASPIC</h1>
                     </a>
                 </div>
             </div>
@@ -54,8 +55,8 @@
                 <div class="d-inline-flex align-items-center justify-content-center">
                     <i class="bi bi-phone-vibrate fs-1 text-primary me-3"></i>
                     <div class="text-start">
-                        <h6 class="text-uppercase mb-1">Call Us</h6>
-                        <span>+012 345 6789</span>
+                        <h6 class="text-uppercase mb-1">Whatsapp</h6>
+                        <span>+57 315377****</span>
                     </div>
                 </div>
             </div>
@@ -64,7 +65,7 @@
     <!-- Topbar End -->
 
 
-     <!-- Navbar Start -->
+    <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-dark navbar-dark shadow-sm py-3 py-lg-0 px-3 px-lg-0">
         <a href="index.html" class="navbar-brand d-block d-lg-none">
             <h1 class="m-0 text-uppercase text-white"><i class="ffa fa-solid fa-burger  fs-1 text-primary me-3"></i>SASPIC</h1>
@@ -74,10 +75,10 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto mx-lg-auto py-0">
-                <a href="index.html" class="nav-item nav-link">Inicio</a>
-                <a href="about.html" class="nav-item nav-link active">Sobre nosotros</a>
+                <a href="index.html" class="nav-item nav-link active">Inicio</a>
+                <a href="about.html" class="nav-item nav-link">Sobre nosotros</a>
                 <a href="menu.html" class="nav-item nav-link">Menú & Precio</a>
-                <a href="favorite.html" class="nav-item nav-link">Favoritos</a>
+                <a href="favorite.html" class="nav-item nav-link">Master Chefs</a>
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Clientes</a>
                     <div class="dropdown-menu m-0">
@@ -96,110 +97,86 @@
     <div class="container-fluid bg-dark bg-img p-5 mb-5">
         <div class="row">
             <div class="col-12 text-center">
-                <h1 class="display-4 text-uppercase text-white">Sobre nosotros</h1>
-                <a href="">Home</a>
+                <h1 class="display-4 text-uppercase text-white">¡Lo más vendido!</h1>
+                <a href="index.html">Inicio</a>
                 <i class="far fa-square text-primary px-2"></i>
-                <a href="">About</a>
+                <a href="">Productos favoritos </a>
             </div>
         </div>
     </div>
     <!-- Page Header End -->
 
 
-    <!-- About Start -->
-    <div class="container-fluid pt-5">
+   
+    <!-- Team Start -->
+    <div class="container-fluid py-5">
         <div class="container">
             <div class="section-title position-relative text-center mx-auto mb-5 pb-3" style="max-width: 600px;">
-                <h2 class="text-primary font-secondary">Algo de historia</h2>
-                <h1 class="display-4 text-uppercase">Bienvenidos a SASPIC</h1>
+                <h2 class="text-primary font-secondary">Lo más vendido</h2>
+                <h1 class="display-4 text-uppercase">Productos favoritos</h1>
             </div>
-            <div class="row gx-5">
-                <div class="col-lg-5 mb-5 mb-lg-0" style="min-height: 400px;">
-                    <div class="position-relative h-100">
-                        <img class="position-absolute w-100 h-100" src="img/about.jpg" style="object-fit: cover;">
+            <div class="row g-5">
+                <div class="col-lg-4 col-md-6">
+                    <div class="team-item">
+                        <div class="position-relative overflow-hidden">
+                            <img class="img-fluid w-100" src="img/favorito-1.jpg" alt="">
+                            <div class="team-overlay w-100 h-100 position-absolute top-50 start-50 translate-middle d-flex align-items-center justify-content-center">
+                                <div class="d-flex align-items-center justify-content-start">
+                                    <a class="btn btn-lg btn-primary btn-lg-square border-inner rounded-0 mx-1" href="#"><i class="fab fa-twitter fw-normal"></i></a>
+                                    <a class="btn btn-lg btn-primary btn-lg-square border-inner rounded-0 mx-1" href="#"><i class="fab fa-facebook-f fw-normal"></i></a>
+                                    <a class="btn btn-lg btn-primary btn-lg-square border-inner rounded-0 mx-1" href="#"><i class="fab fa-linkedin-in fw-normal"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="bg-dark border-inner text-center p-4">
+                            <h4 class="text-uppercase text-primary">SÚPER SASPIC</h4>
+                            <p class="text-white m-0">COP $20K</p>
+                        </div>
                     </div>
                 </div>
-                <div class="col-lg-6 pb-5">
-                    <h4 class="mb-4">Una hamburguesa es un sándwich hecho a base de carne molida o de origen vegetal.</h4>
-                    <p class="mb-5">Aglutinada en forma de filete cocinado a la parrilla o a la plancha, aunque también puede freírse u hornearse.</p>
-                    <div class="row g-5">
-                        <div class="col-sm-6">
-                            <div class="d-flex align-items-center justify-content-center bg-primary border-inner mb-4" style="width: 90px; height: 90px;">
-                                <i class="fa fa-heartbeat fa-2x text-white"></i>
+                <div class="col-lg-4 col-md-6">
+                    <div class="team-item">
+                        <div class="position-relative overflow-hidden">
+                            <img class="img-fluid w-100" src="img/favorito-2.jpg" alt="">
+                            <div class="team-overlay w-100 h-100 position-absolute top-50 start-50 translate-middle d-flex align-items-center justify-content-center">
+                                <div class="d-flex align-items-center justify-content-start">
+                                    <a class="btn btn-lg btn-primary btn-lg-square border-inner rounded-0 mx-1" href="#"><i class="fab fa-twitter fw-normal"></i></a>
+                                    <a class="btn btn-lg btn-primary btn-lg-square border-inner rounded-0 mx-1" href="#"><i class="fab fa-facebook-f fw-normal"></i></a>
+                                    <a class="btn btn-lg btn-primary btn-lg-square border-inner rounded-0 mx-1" href="#"><i class="fab fa-linkedin-in fw-normal"></i></a>
+                                </div>
                             </div>
-                            <h4 class="text-uppercase">100% Saludable</h4>
-                            <p class="mb-0">Gracias a su contenido en proteínas, las hamburguesas ayudan a desarrollar el músculo y a mantener la energía a lo largo de intensas jornadas de entrenamiento o trabajo físico. </p>
                         </div>
-                        <div class="col-sm-6">
-                            <div class="d-flex align-items-center justify-content-center bg-primary border-inner mb-4" style="width: 90px; height: 90px;">
-                                <i class="fa fa-award fa-2x text-white"></i>
+                        <div class="bg-dark border-inner text-center p-4">
+                            <h4 class="text-uppercase text-primary">SASPIC DOG</h4>
+                            <p class="text-white m-0">COP</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="team-item">
+                        <div class="position-relative overflow-hidden">
+                            <img class="img-fluid w-100" src="img/favorito-3.jpg" alt="">
+                            <div class="team-overlay w-100 h-100 position-absolute top-50 start-50 translate-middle d-flex align-items-center justify-content-center">
+                                <div class="d-flex align-items-center justify-content-start">
+                                    <a class="btn btn-lg btn-primary btn-lg-square border-inner rounded-0 mx-1" href="#"><i class="fab fa-twitter fw-normal"></i></a>
+                                    <a class="btn btn-lg btn-primary btn-lg-square border-inner rounded-0 mx-1" href="#"><i class="fab fa-facebook-f fw-normal"></i></a>
+                                    <a class="btn btn-lg btn-primary btn-lg-square border-inner rounded-0 mx-1" href="#"><i class="fab fa-linkedin-in fw-normal"></i></a>
+                                </div>
                             </div>
-                            <h4 class="text-uppercase">Premio de Calidad</h4>
-                            <p class="mb-0">SASPIC tiene el premio de la medalla de oro en comidas rápidas. Excelente atención y soporte al cliente hacen de esta maravillosa empresa un lugar espcial y único.</p>
+                        </div>
+                        <div class="bg-dark border-inner text-center p-4">
+                            <h4 class="text-uppercase text-primary">SÚPER SASPIC</h4>
+                            <p class="text-white m-0">COP $20K</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- About End -->
+    <!-- Team End -->
 
 
-    <!-- Facts Start -->
-    <div class="container-fluid bg-img py-5 mb-5">
-        <div class="container py-5">
-            <div class="row gx-5 gy-4">
-                <div class="col-lg-3 col-md-6">
-                    <div class="d-flex">
-                        <div class="bg-primary border-inner d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
-                            <i class="fa fa-star text-white"></i>
-                        </div>
-                        <div class="ps-4">
-                            <h6 class="text-primary text-uppercase">Nº de Sedes</h6>
-                            <h1 class="display-5 text-white mb-0" data-toggle="counter-up">10</h1>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="d-flex">
-                        <div class="bg-primary border-inner d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
-                            <i class="fa fa-users text-white"></i>
-                        </div>
-                        <div class="ps-4">
-                            <h6 class="text-primary text-uppercase">Hamburguesas vendidas</h6>
-                            <h1 class="display-5 text-white mb-0" data-toggle="counter-up">5.000</h1>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="d-flex">
-                        <div class="bg-primary border-inner d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
-                            <i class="fa fa-check text-white"></i>
-                        </div>
-                        <div class="ps-4">
-                            <h6 class="text-primary text-uppercase">Empleados</h6>
-                            <h1 class="display-5 text-white mb-0" data-toggle="counter-up">100</h1>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="d-flex">
-                        <div class="bg-primary border-inner d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
-                            <i class="fa fa-mug-hot text-white"></i>
-                        </div>
-                        <div class="ps-4">
-                            <h6 class="text-primary text-uppercase">Clientes felices</h6>
-                            <h1 class="display-5 text-white mb-0" data-toggle="counter-up">10.000</h1>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Facts End -->
-
-
-    <!-- Footer Start -->
+      <!-- Footer Start -->
     <div class="container-fluid bg-dark bg-img text-secondary" style="margin-top: 135px">
         <div class="container">
             <div class="row gx-5">
